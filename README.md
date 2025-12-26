@@ -27,6 +27,8 @@ The dataset used in this project is available in CSV format.
 
 ## 🔍 EDA Analysis Performed
 
+<a href = https://github.com/Ziya1701/Banking-Data-Analytics-Project/blob/main/Banking_EDA_Case.ipynb > Banking_EDA_Case </a>
+
 Income band distribution
 
 Gender-wise customer distribution
