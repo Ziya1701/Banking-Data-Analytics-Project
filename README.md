@@ -2,6 +2,9 @@
 ## Project Overview
 This banking analytics project focuses on understanding customer demographics, income distribution, loan and deposit trends, and loyalty behavior. The analysis begins with raw CSV data, followed by data cleaning and EDA using Python. The processed data is stored in MySQL and visualized using Power BI dashboards to support data-driven banking decisions.
 
+[Home Dashboard] <img width="1427" height="800" alt="image" src="https://github.com/user-attachments/assets/92007a7b-e33b-466e-af74-efd4b8b1b639" />
+
+
 ## 🧰 Tools & Technologies Used
 
 Python (Jupyter Notebook)
