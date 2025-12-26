@@ -62,23 +62,23 @@ Check Report :
 
 The Power BI dashboard consists of 5 interactive pages:
 
-Home – Overall KPIs and navigation
+### Home – Overall KPIs and navigation
 
-Home Page <img width="1428" height="797" alt="image" src="https://github.com/user-attachments/assets/7a911199-fb30-41b1-9798-e8052dc72577" />
+<img width="1428" height="797" alt="image" src="https://github.com/user-attachments/assets/7a911199-fb30-41b1-9798-e8052dc72577" />
 
-Loan Analysis – Loan distribution, income band, nationality, occupation
+### Loan Analysis – Loan distribution, income band, nationality, occupation
 
-Loan Analysis Page <img width="1429" height="798" alt="image" src="https://github.com/user-attachments/assets/e04c6c3c-0f2b-48fb-b1d4-6e34a8b54888" />
+<img width="1429" height="798" alt="image" src="https://github.com/user-attachments/assets/e04c6c3c-0f2b-48fb-b1d4-6e34a8b54888" />
 
-Deposit Analysis – Deposit trends, account types, customer segments
+### Deposit Analysis – Deposit trends, account types, customer segments
 
-Deposit Analysis Page <img width="1432" height="804" alt="image" src="https://github.com/user-attachments/assets/642adcd3-0277-4a12-8772-8c498b7026e0" />
+<img width="1432" height="804" alt="image" src="https://github.com/user-attachments/assets/642adcd3-0277-4a12-8772-8c498b7026e0" />
 
-Summary – Key business metrics
+### Summary – Key business metrics
 
-Summary Page <img width="1431" height="803" alt="image" src="https://github.com/user-attachments/assets/9837db8e-1b01-4f1c-8b94-89049c1aff33" />
+<img width="1431" height="803" alt="image" src="https://github.com/user-attachments/assets/9837db8e-1b01-4f1c-8b94-89049c1aff33" />
 
-Q&A – Interactive insights using Power BI Q&A
+### Q&A – Interactive insights using Power BI Q&A
 
 ## 🎯 Business Value
 
