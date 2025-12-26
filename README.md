@@ -8,7 +8,7 @@ Home Dashboard <img width="1427" height="800" alt="image" src="https://github.co
 
 CSV Dataset
 
-Python (Jupyter Notebook)
+Python 
 
 Pandas, NumPy
 
@@ -52,6 +52,9 @@ European customers contribute the highest loans and deposits
 High and mid fee structures dominate
 
 Strong positive correlation between loans, deposits, and business lending
+
+Check Report :
+<a href = https://github.com/Ziya1701/Banking-Data-Analytics-Project/blob/main/Banking%20Data%20Analytics%20Project.pdf> Banking Data Analytics Pdf</a>
 
 ## 📈 Power BI Dashboard
 
