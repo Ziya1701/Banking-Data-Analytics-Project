@@ -22,7 +22,7 @@ Power BI
 
 The dataset used in this project is available in CSV format.
 
-<a href = https://github.com/Ziya1701/Banking-Data-Analytics-Project/blob/main/Banking.xlsx%20-%20Clients%20-%20Banking.csv>
+<a href = https://github.com/Ziya1701/Banking-Data-Analytics-Project/blob/main/Banking.xlsx%20-%20Clients%20-%20Banking.csv> Clients - Banking </a>
 
 
 ## 🔍 EDA Analysis Performed
